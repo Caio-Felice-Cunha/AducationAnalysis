@@ -7,6 +7,7 @@ Using Python's Pandas, analyzing school data
 
 ## Business Problem
 > Data source: The data were provided by the Data Science Academy, which used the Realistic Data Generator (https://www.mockaroo.com/)
+
 The analysis was done to bring insights to a network of schools that aims to better understand the market.<br>
 It was necessary to understand the performance of students, how much is invested in each school, which indicators resulted in better results for Mathematics and Writing, among other questions.
 
