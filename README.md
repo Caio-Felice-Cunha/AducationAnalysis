@@ -1,9 +1,13 @@
 # AducationAnalysis
-Using Python's Pandas, analyzing school data
+Using Python's Pandas, analyzing school data <br>
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdiMGZmMTItZDZlYi00ZTAxLTkyYTctYWNlNGJkNmU2MTRhIiwidCI6IjA4OTM0YTNmLWFkNmUtNDgzZS1hNjhlLTUxYWI3OTI1YmFiNyJ9)<br>
+[Power BI Power App](https://app.powerbi.com/Redirect?action=OpenApp&appId=f6eebfe2-d3d9-472c-82d9-ddd925f736b9&ctid=08934a3f-ad6e-483e-a68e-51ab7925bab7)
 
 <img align="center" src=https://user-images.githubusercontent.com/111542025/227356726-ebd8f5ae-a255-4200-afed-caf36053001b.jpg>
 
-## This is the 1st Version
+## This is the 2nd version
+### Improvements compared to the last version:
+* Power BI Dashboard (Report)
 
 ## Business Problem
 > Data source: The data were provided by the Data Science Academy, which used the Realistic Data Generator (https://www.mockaroo.com/)
@@ -20,7 +24,6 @@ To perform the analysis, we used only the Python Pandas library, as well as the 
 
 ## Next Steps
 * Report
-* Power BI Dashboard
 * Data Insights
 * Business Results
 * Conclusions
