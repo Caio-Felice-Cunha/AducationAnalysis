@@ -27,5 +27,5 @@ To perform the analysis, we used only the Python Pandas library, as well as the 
 * Data Insights
 * Business Results
 * Conclusions
-
+* Understand the correlation between variables
 
