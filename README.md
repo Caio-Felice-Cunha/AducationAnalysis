@@ -1,5 +1,5 @@
 # AducationAnalysis
-Using Python's Pandas, analyzing school data <br>
+Using Python's Pandas and Power BI, analyzing school data <br>
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdiMGZmMTItZDZlYi00ZTAxLTkyYTctYWNlNGJkNmU2MTRhIiwidCI6IjA4OTM0YTNmLWFkNmUtNDgzZS1hNjhlLTUxYWI3OTI1YmFiNyJ9)<br>
 [Power BI Power App](https://app.powerbi.com/Redirect?action=OpenApp&appId=f6eebfe2-d3d9-472c-82d9-ddd925f736b9&ctid=08934a3f-ad6e-483e-a68e-51ab7925bab7)
 
