@@ -1,5 +1,7 @@
 # AducationAnalysis
 Using Python's Pandas and Power BI, analyzing school data <br>
+[Executive Report](https://github.com/Caio-Felice-Cunha/AducationAnalysis/blob/main/Executive%20Report%20Education%20Analysis.pdf) <br>
+[Report (Python Script)](https://github.com/Caio-Felice-Cunha/AducationAnalysis/blob/main/Education%20Analysis.ipynb)<br>
 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdiMGZmMTItZDZlYi00ZTAxLTkyYTctYWNlNGJkNmU2MTRhIiwidCI6IjA4OTM0YTNmLWFkNmUtNDgzZS1hNjhlLTUxYWI3OTI1YmFiNyJ9)<br>
 [Power BI Power App](https://app.powerbi.com/Redirect?action=OpenApp&appId=f6eebfe2-d3d9-472c-82d9-ddd925f736b9&ctid=08934a3f-ad6e-483e-a68e-51ab7925bab7)
 
@@ -8,6 +10,7 @@ Using Python's Pandas and Power BI, analyzing school data <br>
 ## This is the 2nd version
 ### Improvements compared to the last version:
 * Power BI Dashboard (Report)
+* Report
 
 ## Business Problem
 > Data source: The data were provided by the Data Science Academy, which used the Realistic Data Generator (https://www.mockaroo.com/)
@@ -22,10 +25,15 @@ It is also understood that the school network wants to understand how the market
 ## Solution Strategy
 To perform the analysis, we used only the Python Pandas library, as well as the creation of subtables for a better analysis.
 
-## Next Steps
-* Report
-* Data Insights
-* Business Results
-* Conclusions
-* Understand the correlation between variables
+## Data Insights
+For this project, the objective was to understand, mainly, how the annual budget and the type of school influence school performance.
 
+## Business Results
+The allocation of resources is increasingly necessary because, despite the school's budget helping in student performance, there are many more factors that also help to improve school performance. 
+
+## r(Conclusions)
+When carrying out the analysis, it was concluded that the annual budget influences school performance, however, it is not a determining factor for raising the grade of students. <br>
+This becomes more evident when we analyze public and private schools, where public schools have a lower average grade, and a much lower approval rate, however, the annual budget is often equivalent to 3x the annual budget of a private school 
+
+## Next Steps
+* Accepting suggestions
