@@ -31,7 +31,7 @@ For this project, the objective was to understand, mainly, how the annual budget
 ## Business Results
 The allocation of resources is increasingly necessary because, despite the school's budget helping in student performance, there are many more factors that also help to improve school performance. 
 
-## r(Conclusions)
+## Conclusion
 When carrying out the analysis, it was concluded that the annual budget influences school performance, however, it is not a determining factor for raising the grade of students. <br>
 This becomes more evident when we analyze public and private schools, where public schools have a lower average grade, and a much lower approval rate, however, the annual budget is often equivalent to 3x the annual budget of a private school 
 
