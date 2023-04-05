@@ -37,3 +37,6 @@ This becomes more evident when we analyze public and private schools, where publ
 
 ## Next Steps
 * Accepting suggestions
+
+## Disclaimer
+A good part of this project was largely done in the Data Science Academy, Big Data Real-Time Analytics with Python and Spark course (part of the Data Scientist training)
