@@ -24,6 +24,9 @@ It is also understood that the school network wants to understand how the market
 
 ## Solution Strategy
 To perform the analysis, we used only the Python Pandas library, as well as the creation of subtables for a better analysis.
+* Step 01: Loading data and see the quality of it;
+* Step 02: Data selection to answer business problems;
+* Step 03: Data Analysis with Pandas to answer business problems.
 
 ## Data Insights
 For this project, the objective was to understand, mainly, how the annual budget and the type of school influence school performance.
