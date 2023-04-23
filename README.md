@@ -1,4 +1,4 @@
-# AducationAnalysis
+# Aducation Analysis
 Using Python's Pandas and Power BI, analyzing school data <br>
 [Executive Report](https://github.com/Caio-Felice-Cunha/AducationAnalysis/blob/main/Executive%20Report%20Education%20Analysis.pdf) <br>
 [Report (Python Script)](https://github.com/Caio-Felice-Cunha/AducationAnalysis/blob/main/Education%20Analysis.ipynb)<br>
